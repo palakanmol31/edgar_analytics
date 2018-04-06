@@ -13,7 +13,7 @@ Steps to run the code :
 Python src code = sessionization.py
 
 The libraries that I am importing in the code are : 
-import csv
-from datetime import datetime
-from datetime import timedelta
-from collections import OrderedDict
+1. import csv
+2. from datetime import datetime
+3. from datetime import timedelta
+4. from collections import OrderedDict
